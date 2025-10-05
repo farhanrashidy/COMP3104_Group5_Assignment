@@ -1,0 +1,1 @@
+This course introduces the principles and practices of DevOps, focusing on collaboration between development and operations.
