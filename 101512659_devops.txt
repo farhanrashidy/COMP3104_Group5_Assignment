@@ -1,1 +1,3 @@
 This course introduces the principles and practices of DevOps, focusing on collaboration between development and operations.
+It covers tools and techniques such as automation, continuous integration (CI), and continuous delivery (CD).
+Students gain practical experience applying DevOps practices in software development projects.
