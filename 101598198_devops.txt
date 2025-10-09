@@ -4,3 +4,4 @@ DevOps is built on principles like automation, collaboration, continuous improve
 A strong DevOps culture encourages communication and shared responsibility between developers, testers, and operations. This breaks down silos and ensures everyone works toward the same goal — delivering high-quality software.
 Automation plays a major role in DevOps. By automating testing, deployment, monitoring, and infrastructure management, teams can reduce errors, save time, and increase reliability.
 Continuous Integration (CI) is the practice of automatically building and testing code changes. Continuous Delivery (CD) ensures that the application can be deployed to production at any time. Together, CI/CD allows faster and safer software releases.
+Common DevOps tools include version control systems, CI/CD pipelines, containerization platforms, and monitoring tools. Popular examples are Git, Jenkins, Docker, Kubernetes, and Ansible.
