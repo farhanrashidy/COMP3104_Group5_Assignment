@@ -1,0 +1,10 @@
+The Software Development Life Cycle (SDLC) is a structured process used by software development teams to design, develop, test, and deliver high-quality software. It provides a clear plan to manage software projects efficiently.
+The purpose of SDLC is to ensure that software is built systematically, meets user requirements, and is completed within time and budget. It helps minimize risks and improve overall project quality.
+The planning phase is the foundation of the SDLC. It involves defining the project scope, estimating resources, identifying risks, and setting timelines. This ensures the project starts with a clear direction.
+In this phase, the development team gathers and analyzes user and business requirements. Understanding what the software needs to do is critical for building the right solution.
+The design phase focuses on creating the architecture and system design of the software. It includes interface design, database structure, and system components, ensuring that the solution is well structured.
+The development phase is where the actual coding begins. Developers use chosen technologies and programming languages to build the features and functions defined in the earlier phases.
+During the testing phase, the software is checked for bugs, errors, and performance issues. Quality assurance ensures the software works as expected and meets all requirements.
+In the deployment phase, the software is released to users or moved to a production environment. It may be rolled out in stages to reduce risk and ensure a smooth launch.
+After deployment, the software enters the maintenance phase. This includes fixing bugs, updating features, and ensuring the system remains secure, stable, and up to date.
+The SDLC provides a clear framework for developing software efficiently and effectively. By following each phase, teams can deliver reliable, secure, and high-quality software products.
