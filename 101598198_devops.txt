@@ -2,3 +2,4 @@ DevOps is a combination of “Development” and “Operations.” It is a set o
 The main purpose of DevOps is to lessen the software development lifecycle while delivering features, fixes, and updates frequently. It aims to improve the quality and reliability of software through continuous integration and delivery.
 DevOps is built on principles like automation, collaboration, continuous improvement, and rapid feedback. These principles help teams work more effectively together and deliver better software faster.
 A strong DevOps culture encourages communication and shared responsibility between developers, testers, and operations. This breaks down silos and ensures everyone works toward the same goal — delivering high-quality software.
+Automation plays a major role in DevOps. By automating testing, deployment, monitoring, and infrastructure management, teams can reduce errors, save time, and increase reliability.
