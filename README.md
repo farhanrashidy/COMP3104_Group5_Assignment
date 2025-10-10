@@ -2,7 +2,7 @@
 ## Memebers
 #### -- *Leader* : Sheikh Mohammad Farhan Rashidy - (101512659) - [GitHub](https://github.com/farhanrashidy)
 #### -- Ahmad Ashoor (101136881) - [GitHub](https://github.com/Ahmad3663)
-#### -- Rohan Davis
+#### -- Rohan Davis - (101598198) - [GitHub](https://github.com/rohan437-3104)
 
 ## Project Description
 Collaborative Git workflows + CI/CD with GitHub Actions.
